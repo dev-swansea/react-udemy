@@ -4,7 +4,7 @@ const person = {
   girlFriend: {
     first: {
       job: "idol",
-      group: "aspa",
+      group: "aespa",
       name: "karina",
     },
   },

@@ -1,10 +1,9 @@
 import "./App.css";
-import LearnReact from "./component/leanring-example/LearnReact";
-
+import Counter from "./component/counter/Counter";
 function App() {
   return (
     <div className="App">
-      <LearnReact />
+      <Counter />
     </div>
   );
 }
